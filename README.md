@@ -4,4 +4,4 @@ Generates personalized Python course completion certificate PDFs using input dat
 The ExampleFiles folder contains an example input CSV file, an example output PDF certificate, as well as screenshot of the example output PDF (shown below).
 
 Here's an example certificate:
-![CertificateImage](https://github.com/tangluna/CertificateGenerator/blob/master/ExampleFiles/ExampleCertificateScreenshotForREADME.PNG)
+![CertificateImage](https://github.com/tangluna/CertificateGenerator/blob/master/ExampleFiles/ExampleCertificateScreenshot.PNG)
